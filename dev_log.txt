@@ -1,0 +1,5 @@
+-Backbone
+-React
+-Node.js, Express, webpack, Sass, Gulp, Git (Github) and Babel
+-CommonJS modules
+-Unit and integration tests written with Jasmine, Mocha, Chai and Sinon.
