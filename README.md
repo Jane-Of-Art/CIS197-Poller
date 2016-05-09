@@ -31,7 +31,7 @@
     * constants/*
     * reducers/*
 
-Lightly Modiefied Files (<10%)
+### Lightly Modiefied Files (<10%)
 * package.json
 * server/
   * server.js (Main express app)
@@ -43,7 +43,7 @@ Lightly Modiefied Files (<10%)
   * css/
     * app.css (Also added bootstrap to project in server.js for style)
 
-MERN*Starter Files
+### MERN*Starter Files
 * The rest; sets up server side rendering, react routing, etc
 
 
